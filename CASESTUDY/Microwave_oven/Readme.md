@@ -16,14 +16,14 @@ The microwave oven uses less energy than a cook stove if it cooks or reheats sma
 
 ## REQUIREMENTS
 
-# real components:
-Micro-controller.
-Keypad.
-4*16 LCD.
-Heater.
-Lamp.
-Motor.
-Buzzer.
-3 Buttons (Start, Stop, and Power Off Button).
+### Real components:
+Micro-controller,
+Keypad,
+4*16 LCD,
+Heater,
+Lamp,
+Motor,
+Buzzer,
+3 Buttons (Start, Stop, and Power Off Button),
 Door and Weight Sensor.
 
