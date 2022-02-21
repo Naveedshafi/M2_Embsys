@@ -15,7 +15,8 @@ The microwave oven uses less energy than a cook stove if it cooks or reheats sma
 •	Retain nutrients 
 
 ##REQUIREMENTS
- #real components:
+
+#real components:
 Micro-controller.
 Keypad.
 4*16 LCD.
