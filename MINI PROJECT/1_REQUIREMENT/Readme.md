@@ -3,7 +3,8 @@
 # Introduction: This microcontroller-controlled door alarm uses an ultrasonic sensor that can be placed near the door to determine whether or not someone is there. The buzzer starts buzzing whenever someone enters the range of the ultrasonic sensor. The detecting range of the sensor can be modified depending on the door. This is also capable of acting as a motion detector.
 
 # Components
-	* Arduino Mega :Arduino can be used to develop stand-alone interactive objects or can be connected to software on your computer 
+  
+  * Arduino Mega :Arduino can be used to develop stand-alone interactive objects or can be connected to software on your computer 
   * Ultrasonic sensor : Ultrasonic sensor HC-SR04 is utilized here to recognize the presence of any person at the door. The sensor module involves an ultrasonic transmitter,           receiver as well as a control circuit.It includes two circular eyes out of which one is utilized to transmit the ultrasonic wave and the other to receive it.
   * Buzzer : Alerts when someone is near the ultrasonic sensor
   * power supply : External source of power supply is required of the components like ardiuno, microcontroller,buzzer,ultrasonic sensor.
