@@ -1,6 +1,6 @@
-# Project : Door Alarm To Ensure Security
+## Project : Door Alarm To Ensure Security
 
-# Introduction: This microcontroller-controlled door alarm uses an ultrasonic sensor that can be placed near the door to determine whether or not someone is there. The buzzer starts buzzing whenever someone enters the range of the ultrasonic sensor. The detecting range of the sensor can be modified depending on the door. This is also capable of acting as a motion detector.
+## Introduction: This microcontroller-controlled door alarm uses an ultrasonic sensor that can be placed near the door to determine whether or not someone is there. The buzzer starts buzzing whenever someone enters the range of the ultrasonic sensor. The detecting range of the sensor can be modified depending on the door. This is also capable of acting as a motion detector.
 
 # Components
   
