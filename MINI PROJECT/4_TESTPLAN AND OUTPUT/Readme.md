@@ -14,3 +14,7 @@
 | -------| ----------- | ------- | ------- | ------ |
 | L_01 | Reset Minute and Hour | Press Reset | As Needed | Implemented |
 | L_02 | Reset Time | Press Reset | As Needed | Implemented |
+
+## output
+
+![output image LCD](https://user-images.githubusercontent.com/98814692/157094651-b9897b6c-fc0f-4e97-93f3-37325a328836.png)
