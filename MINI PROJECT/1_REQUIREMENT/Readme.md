@@ -36,6 +36,7 @@ How - By using Atmega328 microcontroller and SimulIDE.
 
 ## High Level Requirements
 | ID | Description | Category | 
+|----|-------------|----------|
 | HLR_01 | Adding Hours and Minutes | Software |
 | HLR_02 | Understanding Atmega328 | Software |
 
