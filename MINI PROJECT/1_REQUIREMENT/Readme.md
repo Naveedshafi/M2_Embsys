@@ -23,16 +23,16 @@ How - By using Atmega328 microcontroller and SimulIDE.
 •	Can adjust hours and minutes according to ones needs.
 
 ### Weakness
-•	Not able to Load Seconds.
-•	It's Very common.
+•	Not able to Load Seconds
+•	It's Very common
 
 ### Opportunities
 •	Can add Alarm
-•	Can add temperature sensor.
+•	Can add temperature sensor
 
 ### Threats
-•	Lack of technology.
-•	Can get broken easily.
+•	Lack of technology
+•	Can get broken easily
 
 ## High Level Requirements
 | ID | Description | Category | 
@@ -41,7 +41,8 @@ How - By using Atmega328 microcontroller and SimulIDE.
 | HLR_02 | Understanding Atmega328 | Software |
 
 ## Low Level Requirements
-ID __________________________ Description
-LLR_01 __________________________ Circuit Design
-LLR_02 __________________________ Simulation
+| ID | Description |
+|----|-------------|
+| LLR_01 | Circuit Design |
+| LLR_02 | Simulation |
 
