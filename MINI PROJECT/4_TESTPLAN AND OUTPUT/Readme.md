@@ -1,4 +1,4 @@
-# Test Plan
+# TEST PLAN
 # High Level Test Plan
 
 | Test ID| Description | Exp I/P | Exp O/P | Status |
